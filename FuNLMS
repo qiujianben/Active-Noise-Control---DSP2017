@@ -1,0 +1,4 @@
+NLMS:
+
+The NLMS is a variant of the LMS algorithm that solves this problem by normalizing with the power of the input. The primary aim of an adaptive 
+noise cancellation algorithm is to allow the noisy signal through a filter which suppresses the noise without disturbing the desired signal
